@@ -1,0 +1,21 @@
+.restaurant-container{
+    display: flex;
+}
+.restaurant-container img{
+    width : 350px;
+    border-radius:5px;
+    overflow: hidden;
+    background-color: #f3f5f5;
+}
+.restaurant-container h2{
+color:#2E3333;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 32px;
+line-height: 26.7px;
+}
+.restaurant-container h2{
+    color:#2E3333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    line-height: 26.7px;
+    }

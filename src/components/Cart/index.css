@@ -1,0 +1,7 @@
+.cart{
+    border:black 2px dashed;
+    background-color: crimson;
+    display:flex;
+    flex-direction: row;
+    width:25%;
+}
